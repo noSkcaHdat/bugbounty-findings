@@ -1,0 +1,29 @@
+# ── Sensitive: unsubmitted vulnerability reports (active targets) ──
+reports/drafts/
+
+# ── Sensitive: script with hardcoded target Supabase project ref + crafted JWTs ──
+tools/facturaz_token_theft.sh
+
+# ── Sensitive: personal homelab recon (not a bug bounty target) ──
+recon/subdomains/shannes.de-live.txt
+
+# ── Auth tokens saved during testing ──
+/tmp/qw_token*.txt
+*.token
+*.bearer
+
+# ── Tool output / temp files ──
+*.json.output
+recon/vulns/
+recon/screenshots/
+
+# ── Local wordlists (symlink to SecLists — not for repo) ──
+wordlists/
+
+# ── OS / editor artifacts ──
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+__pycache__/
+*.pyc

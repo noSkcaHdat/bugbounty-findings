@@ -1,0 +1,2 @@
+https://api.facturaz.es [404] [Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3]
+https://www.facturaz.es [429] [Vercel Security Checkpoint] [Vercel]

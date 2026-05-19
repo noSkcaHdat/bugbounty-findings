@@ -1,0 +1,14 @@
+https://api.getmomo.app
+https://backoffice-unified.getmomo.app
+https://kundenfeedback.getmomo.app
+https://www.getmomo.app
+https://email-assets.getmomo.app
+https://eigentuemer.getmomo.app
+https://files.getmomo.app
+https://backoffice.getmomo.app
+https://hilfeportal.getmomo.app
+https://router.getmomo.app
+https://developers.getmomo.app
+https://vdp.getmomo.app
+https://status.getmomo.app
+https://banking.getmomo.app

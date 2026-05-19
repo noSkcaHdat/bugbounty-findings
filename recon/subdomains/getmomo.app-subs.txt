@@ -1,0 +1,17 @@
+backoffice-unified.getmomo.app
+developers.getmomo.app
+www.getmomo.app
+backoffice2.getmomo.app
+email-assets.getmomo.app
+hilfeportal.getmomo.app
+vdp.getmomo.app
+demo.getmomo.app
+banking.getmomo.app
+files.getmomo.app
+kundenfeedback.getmomo.app
+mieter.getmomo.app
+status.getmomo.app
+api.getmomo.app
+backoffice.getmomo.app
+eigentuemer.getmomo.app
+router.getmomo.app
